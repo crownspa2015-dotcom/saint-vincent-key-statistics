@@ -1,0 +1,157 @@
+{
+  "meta": {
+    "title": "Saint Vincent and the Grenadines — Key Statistics",
+    "subtitle": "A concise statistical snapshot of the people, economy and environment of Saint Vincent and the Grenadines.",
+    "lastUpdated": "September 2026"
+  },
+  "social": {
+    "cards": [
+      {
+        "label": "Population",
+        "value": "108,764",
+        "period": "Household population · 2023 Census",
+        "source": "Statistical Office — Population and Housing Census 2023",
+        "sourceUrl": "https://stats.gov.vc/census/census-data/household-population-by-census-division-2023/"
+      },
+      {
+        "label": "Labour-force participation",
+        "value": "65.53%",
+        "period": "Population aged 15+ · 2023 Census",
+        "source": "Statistical Office — Population and Housing Census 2023",
+        "sourceUrl": "https://stats.gov.vc/census/census-data/labour-force-participation-rate-by-age-group-and-sex-2023/"
+      },
+      {
+        "label": "Unemployment rate",
+        "value": "17.9%",
+        "period": "Calculated from 2023 Census labour-force counts",
+        "source": "Statistical Office — Population and Housing Census 2023",
+        "sourceUrl": "https://stats.gov.vc/census/census-data/working-age-population-by-economic-activity-and-census-division-2023/"
+      },
+      {
+        "label": "Life expectancy",
+        "value": "70 years",
+        "period": "2021",
+        "source": "Statistical Office, Government of Saint Vincent and the Grenadines",
+        "sourceUrl": "https://stats.gov.vc/"
+      },
+      {
+        "label": "Infant mortality",
+        "value": "17.3 / 1,000",
+        "period": "Live births · 2023 preliminary",
+        "source": "Statistical Office — Mortality Summary Table",
+        "sourceUrl": "https://stats.gov.vc/subjects/vital-statistics/mortality-summary-table/"
+      }
+    ]
+  },
+  "economic": {
+    "cards": [
+      {
+        "label": "GDP",
+        "value": "EC$2.355b",
+        "period": "Current market prices · 2021 preliminary",
+        "source": "Statistical Office — National Accounts",
+        "sourceUrl": "https://stats.gov.vc/subjects/national-accounts/gross-domestic-product-by-economic-activity-in-current-prices/"
+      },
+      {
+        "label": "GDP growth",
+        "value": "0.8%",
+        "period": "Constant market prices · 2021 preliminary",
+        "source": "Statistical Office — National Accounts",
+        "sourceUrl": "https://stats.gov.vc/subjects/national-accounts/gross-domestic-product-by-economic-activity-at-constant-prices/"
+      },
+      {
+        "label": "Annual inflation",
+        "value": "0.5%",
+        "period": "2025",
+        "source": "Statistical Office — Consumer Price Index",
+        "sourceUrl": "https://stats.gov.vc/subjects/prices-and-price-indices/annual-averages/"
+      },
+      {
+        "label": "Stay-over visitors",
+        "value": "81,025",
+        "period": "January–September 2025",
+        "source": "Government of SVG — 2026 Budget Address",
+        "sourceUrl": "https://finance.gov.vc/finance/images/PDF/budgetaddress/Budget_Address_2026.pdf"
+      },
+      {
+        "label": "Merchandise trade balance",
+        "value": "−EC$282.7m",
+        "period": "Q2 2022 · preliminary",
+        "source": "Statistical Office — Balance of Visible Trade",
+        "sourceUrl": "https://stats.gov.vc/subjects/international-trade/balance-of-visible-trade-second-quarter/"
+      }
+    ],
+    "tourism": {
+      "title": "Stay-over visitors increased in 2025",
+      "subtitle": "January–September comparison",
+      "source": "Government of Saint Vincent and the Grenadines — 2026 Budget Address",
+      "sourceUrl": "https://finance.gov.vc/finance/images/PDF/budgetaddress/Budget_Address_2026.pdf",
+      "series": [
+        {
+          "label": "2024",
+          "value": 71000
+        },
+        {
+          "label": "2025",
+          "value": 81025
+        }
+      ],
+      "callout": "14% year-on-year growth in stay-over visitors by September 2025"
+    }
+  },
+  "environment": {
+    "cards": [
+      {
+        "label": "Exclusive Economic Zone",
+        "value": "35,843 km²",
+        "period": "Approximately 92× the country's land area",
+        "source": "Government of SVG — CMEMSP Environmental and Social Management Framework",
+        "sourceUrl": "https://www.gov.vc/images/projects/CMEMSP_Environmental-and-Social-Management-Framework.pdf"
+      },
+      {
+        "label": "Land area",
+        "value": "390 km²",
+        "period": "National land area",
+        "source": "Government of SVG — CMEMSP Environmental and Social Management Framework",
+        "sourceUrl": "https://www.gov.vc/images/projects/CMEMSP_Environmental-and-Social-Management-Framework.pdf"
+      },
+      {
+        "label": "Protected marine & coastal areas",
+        "value": "95 km²",
+        "period": "Less than 0.5% of the EEZ",
+        "source": "Government of SVG — Ecotourism Strategy Terms of Reference",
+        "sourceUrl": "https://www.gov.vc/images/RequestForExpressionsofInterest/Terms_of_Reference_Development_of_an_Ecotourism_and_Community_Strategy_and_Development_Plan_and_Checklist.pdf"
+      },
+      {
+        "label": "Waste disposed",
+        "value": "162,962 m³",
+        "period": "2020",
+        "source": "Statistical Office — Environmental Statistics",
+        "sourceUrl": "https://stats.gov.vc/subjects/environment/annual-waste-disposed-by-type-2016-to-2020/"
+      }
+    ],
+    "energyMix": {
+      "title": "Electricity generation by source",
+      "subtitle": "2021",
+      "source": "Statistical Office — Electricity Generation and Distribution",
+      "sourceUrl": "https://stats.gov.vc/subjects/environment/electricity-generation-and-distribution/",
+      "series": [
+        {
+          "label": "Diesel",
+          "value": 121.95,
+          "display": "121.95 million kWh"
+        },
+        {
+          "label": "Hydro",
+          "value": 19.22,
+          "display": "19.22 million kWh"
+        },
+        {
+          "label": "Solar",
+          "value": 2.33,
+          "display": "2.33 million kWh"
+        }
+      ]
+    }
+  }
+}
